@@ -1,24 +1,29 @@
-import logo from './logo.svg';
+import { useState } from 'react';
+import { Grommet, Box, Text } from 'grommet'; 
+import { Daughters, Gallery, Grandkids, HeaderLayer, Hero, Info, Navbar, Sons } from './components/index'
 import './App.css';
 
 function App() {
+  const [showSideBar, setShowSideBar] = useState(false)
+  const opener = () => setShowSideBar(true)
+  const closer = () => setShowSideBar(false)
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Grommet className="App">
+      <Navbar opener={opener}/>
+      {showSideBar && <HeaderLayer closer={closer} />}
+      <Hero />
+      <Gallery />
+      <Info />
+      <Sons />
+      <Daughters />
+      <Grandkids />
+      <Box 
+        pad='xlarge'
+      >
+        <Text size='small'>XOXO Thibodeaux Family </Text>
+      </Box>
+    </Grommet>
   );
 }
 
