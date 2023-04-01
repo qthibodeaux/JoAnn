@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/JoAnn/static/css/main.07d2511c.css",
+    "main.js": "/JoAnn/static/js/main.389d177c.js",
+    "static/media/ma.png": "/JoAnn/static/media/ma.1ee63a18fbf1e9243bf5.png",
+    "static/media/5.jpg": "/JoAnn/static/media/5.c5264e35f9b5013e2bcb.jpg",
+    "static/media/2.jpg": "/JoAnn/static/media/2.bcf84c73650086d8391e.jpg",
+    "static/media/bluebonnets.jpg": "/JoAnn/static/media/bluebonnets.2e8f76c5740a69298d41.jpg",
+    "static/media/d2.jpg": "/JoAnn/static/media/d2.417067dea7951edd1edf.jpg",
+    "static/media/3.jpg": "/JoAnn/static/media/3.63bf5e10a8753db2a615.jpg",
+    "static/media/3gk.jpg": "/JoAnn/static/media/3gk.260859efe8505da6bbf1.jpg",
+    "static/media/8.jpg": "/JoAnn/static/media/8.7373fffdc4451fd2db72.jpg",
+    "static/media/1.jpg": "/JoAnn/static/media/1.38411001a1769f80123b.jpg",
+    "static/media/7.jpg": "/JoAnn/static/media/7.da035513968665bf61e5.jpg",
+    "static/media/gks.JPEG": "/JoAnn/static/media/gks.5a22684d6daad5de552c.JPEG",
+    "static/media/9.jpg": "/JoAnn/static/media/9.1230ef9dcb34f857e5cd.jpg",
+    "static/media/sons3.JPEG": "/JoAnn/static/media/sons3.74c7c3dd9b06593e1c31.JPEG",
+    "static/media/sons.jpg": "/JoAnn/static/media/sons.7af88f30cb542ad11744.jpg",
+    "static/media/6.jpg": "/JoAnn/static/media/6.20bf0606546e2a13efe7.jpg",
+    "static/media/4.jpg": "/JoAnn/static/media/4.41a94a5a156a89441bca.jpg",
+    "static/media/bb.jpg": "/JoAnn/static/media/bb.3830b006862d3ac5e7d7.jpg",
+    "static/media/glimpse.jpg": "/JoAnn/static/media/glimpse.85f762100d88d2bd8946.jpg",
+    "index.html": "/JoAnn/index.html",
+    "main.07d2511c.css.map": "/JoAnn/static/css/main.07d2511c.css.map",
+    "main.389d177c.js.map": "/JoAnn/static/js/main.389d177c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07d2511c.css",
+    "static/js/main.389d177c.js"
+  ]
+}
